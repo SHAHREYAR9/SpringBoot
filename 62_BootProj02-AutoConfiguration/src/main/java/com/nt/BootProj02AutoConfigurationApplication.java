@@ -12,9 +12,6 @@ import com.nt.dao.EmployeeDAO;
 @SpringBootApplication
 public class BootProj02AutoConfigurationApplication {
 	
-	
-	
-
 	public static void main(String[] args) {
 		System.out.println("**********************");
 		//get IOC container
